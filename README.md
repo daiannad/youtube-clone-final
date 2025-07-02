@@ -29,17 +29,19 @@
 
 ### 1️⃣ Clone the repository
 
-```bash
+bash
 git clone https://github.com/daiannad/youtube-clone-final.git
 cd youtube-clone-final
-2️⃣ Install dependencies
+
+### 2️⃣ Install dependencies
 bash
 Copy
 Edit
 npm install
 # or
 yarn install
-3️⃣ Configure API Key
+
+### 3️⃣ Configure API Key
 Create a .env file in the root directory
 
 Add your RapidAPI YouTube key:
@@ -50,7 +52,7 @@ Edit
 REACT_APP_RAPIDAPI_KEY=your_rapidapi_key_here
 (You can obtain a key from RapidAPI)
 
-4️⃣ Run the app locally
+### 4️⃣ Run the app locally
 bash
 Copy
 Edit
